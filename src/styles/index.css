@@ -1,6 +1,7 @@
+ 
 
 body {
-    background-image: url("../assets/wallpaper.png");
+    background-image: url(src/assets/wallpaper.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,7 +17,7 @@ body {
     height: 18rem;
 }
 .div-jumbotron {
-    background:url("../assets/jumbotron-pokemon.png");
+    background: url(src/assets/jumbotron-pokemon.jpg);
     background-size: cover;
     background-position: center;
     min-height: 30rem; 
